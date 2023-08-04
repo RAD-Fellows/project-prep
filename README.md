@@ -47,7 +47,7 @@
 ## Work Plan
 
 * How you will identify tasks, assign tasks, know when they are complete, and manage work in general?
-   * We will also use Github-projects or trello to help us keep track of any assignments we need to complete.  We will use our daily standup to break out tasks and assign who will be working on what.
+   * We will also use Github-projects or trello to help us keep track of any assignments we need to complete.  We will use our daily standup to break out tasks and assign who will be working on what.  We will also have an end of day meeting to sync up on all items that have been completed.
 * What project management tool will be used?
    * We will be using GitHuB Projects for project management tool.
 Git Process
