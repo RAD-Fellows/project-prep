@@ -2,7 +2,7 @@
 
 ## Team Agreement
 
-### Members: Aaron Clark, Rocio Martinez, Dylan Cooper
+### Members: Aaron Clark, Rocio Martinez, Dylan Cooper, Davey Oswald
 
 ## Cooperation Plan
 
